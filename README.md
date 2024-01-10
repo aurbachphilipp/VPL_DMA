@@ -15,7 +15,7 @@ We compare different DMA blocks and give examples where DMAs are used...
 
 ### CDMA_simple_polling
 
-CDMA_simple_polling/vitis/app/src/cdma_simple_polling.c
+- CDMA_simple_polling/vitis/app/src/cdma_simple_polling.c
 
 
 ### CDMA_simple_polling_DDR
