@@ -20,36 +20,36 @@ CDMA_simple_polling/vitis/app/src/cdma_simple_polling.c
 
 ### CDMA_simple_polling_DDR
 
-CDMA_simple_polling_DDR/vitis/app/src/cdma_simple_polling_DDR.c
+- CDMA_simple_polling_DDR/vitis/app/src/cdma_simple_polling_DDR.c
 
 
 ### DMA_SG_interrupt
 
-DMA_SG_interrupt/vitis/app/src/dma_SG_interrupt.c
+- DMA_SG_interrupt/vitis/app/src/dma_SG_interrupt.c
 
 
 ### DMA_SG_polling
 
-DMA_SG_polling/vitis/app/src/dma_SG_polling.c
+- DMA_SG_polling/vitis/app/src/dma_SG_polling.c
 
 
 ### DMA_simple_interrupt
 
-DMA_simple_interrupt/vitis/app/src/dma_simple_interrupt.c
+- DMA_simple_interrupt/vitis/app/src/dma_simple_interrupt.c
 
 
 ### DMA_simple_polling
 
-DMA_simple_polling/vitis/app/src/dma_simple_polling.c
+- DMA_simple_polling/vitis/app/src/dma_simple_polling.c
 
 
 ### VDMA_Selftest
 
-VDMA_Selftest/vitis/app/src/xaxivdma_example_selftest.c
+- VDMA_Selftest/vitis/app/src/xaxivdma_example_selftest.c
 
 
 ### VDMA_framesToDDR
 
-VDMA_framesToDDR/vitis/app/src/vdma_continuous_to_DDR.c
+- VDMA_framesToDDR/vitis/app/src/vdma_continuous_to_DDR.c
 
 
