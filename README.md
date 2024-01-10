@@ -9,3 +9,41 @@ We compare different DMA blocks and give examples where DMAs are used...
 ## Owners
 - Philipp Aurbach
 - Maximilian Rötzer
+
+
+## Source code locations
+
+### CDMA_simple_polling
+
+CDMA_simple_polling/vitis/app/src/cdma_simple_polling.c
+
+
+### CDMA_simple_polling_DDR
+
+CDMA_simple_polling_DDR/vitis/app/src/cdma_simple_polling_DDR.c
+
+
+### DMA_SG_interrupt
+
+DMA_SG_interrupt/vitis/app/src/dma_SG_interrupt.c
+
+
+### DMA_SG_polling
+
+DMA_SG_polling/vitis/app/src/dma_SG_polling.c
+
+
+### DMA_simple_interrupt
+
+DMA_simple_interrupt/vitis/app/src/dma_simple_interrupt.c
+
+
+### DMA_simple_polling
+
+
+
+### VDMA_frameToDDR
+
+
+
+
